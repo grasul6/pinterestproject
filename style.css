@@ -1,9 +1,27 @@
 
 .topHeader{
+    margin-bottom: 0;
     background-color: rgba(0, 0, 0, 0.671);
     color: white;
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
+}
 
+/* #navbarSupportedContent{
+    margin-top: 0;
+    padding-top: 0;
+} */
+
+.fa, .fas {
+    padding: 10px;
+    font-weight: bolder;
+    color: white;
+}
+
+.mr-auto, .mx-auto {
+    display: flex;
+    align-items: space-between;
+    margin-right: auto !important;
+    padding-left: 300px !important;
 }
