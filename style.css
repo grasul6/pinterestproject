@@ -6,6 +6,7 @@
     text-align: center;
     text-transform: uppercase;
     font-weight: bold;
+    margin-bottom: 0;
 }
 
 /* #navbarSupportedContent{
@@ -24,4 +25,10 @@
     align-items: space-between;
     margin-right: auto !important;
     padding-left: 300px !important;
+}
+
+.carousel-inner .carousel-item{
+    height: 500px;
+    background-size: cover;
+    background-position: center;
 }
