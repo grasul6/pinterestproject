@@ -9,6 +9,14 @@
     margin-bottom: 0;
 }
 
+.navbar-brand{
+    font-size: x-large;
+}
+.nav-item{
+    justify-content: space-around;
+    font-size: x-large;
+}
+
 /* #navbarSupportedContent{
     margin-top: 0;
     padding-top: 0;
@@ -31,4 +39,12 @@
     height: 500px;
     background-size: cover;
     background-position: center;
+}
+
+.fas  {
+    padding-left: 20px;
+    padding-top: 25px;
+    padding-right: 0px;
+    font-size: 35px;
+    color: white;
 }
